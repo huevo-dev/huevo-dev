@@ -17,7 +17,7 @@ Currently diving deep into AI basics and many other fun projects. I'll use this 
 
 ### 🌐 Connect with me:
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/javier-fernandez-alvarado/])
-[![Email Badge](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:javier_f13@outlook.com)
+<!-- [![Email Badge](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:javier_f13@outlook.com) -->
 ---
 
 ### 🔥 My GitHub Stats
